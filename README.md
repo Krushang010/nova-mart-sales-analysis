@@ -24,7 +24,7 @@ This project analyzes the impact of promotional campaigns on sales performance a
 
 ## 📂 Files
 
-* `Nova_Mart_Promotional_Campaign_Analysis.ipynb` → Full analysis notebook
+* `Campaign_Performance_Analysis_Nova_Mart.ipynb` → Full analysis notebook
 
 ## 🚀 Conclusion
 
